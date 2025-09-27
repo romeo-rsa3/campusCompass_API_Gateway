@@ -1,0 +1,5 @@
+http:
+  port: ${GATEWAY_PORT:8080}
+
+admin:
+  port: ${GATEWAY_ADMIN_PORT:9876}
